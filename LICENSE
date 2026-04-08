@@ -1,0 +1,40 @@
+ACT-NN Public Code License
+
+Copyright (c) 2026 Yan Li, De Zhao, Yanhui Yin, and Qihao Zhou.
+All rights reserved.
+
+This repository is made publicly available for academic communication,
+peer review, and non-commercial research use related to the accompanying
+manuscript.
+
+Permission is granted to view, download, run, and locally modify the code
+for the sole purpose of understanding, evaluating, and attempting to
+reproduce the model reported in the associated manuscript, provided that:
+
+1. this copyright notice and license text are retained;
+2. any use is non-commercial;
+3. the code or modified versions of the code are not redistributed,
+   sublicensed, or sold in whole or in part without prior written
+   permission from the copyright holders;
+4. appropriate citation is given to the associated manuscript and/or this
+   repository when the code contributes to academic work.
+
+For clarity, the following are not permitted without prior written
+permission from the copyright holders:
+
+1. commercial use of the code or any derivative work;
+2. redistribution of the source code, binaries, trained weights, or
+   modified versions;
+3. use of the code as part of a commercial product, commercial service,
+   or proprietary workflow;
+4. any implied patent license.
+
+The code is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall
+the authors or copyright holders be liable for any claim, damages, or
+other liability arising from, out of, or in connection with the code or
+the use of the code.
+
+For licensing inquiries, commercial use, redistribution, or other
+permissions, please contact the corresponding author.

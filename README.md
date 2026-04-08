@@ -1,5 +1,3 @@
-# ACT-NN
-
 # ACT-NN Public Code Release
 
 ACT-NN is a tour-based hierarchical neural network for full-chain daily activity-travel prediction. The model jointly predicts activity purpose, destination, arrival time, departure time, and travel mode for each step in a daily chain, while explicitly modeling the main activity anchor, secondary activity organization, and tour-level resource continuity. This repository provides the public implementation of the main ACT-NN model and its training pipeline.
